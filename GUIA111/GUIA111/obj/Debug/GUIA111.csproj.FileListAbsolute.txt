@@ -1,0 +1,7 @@
+C:\Users\vladi\Desktop\GUIA111\GUIA111\bin\Debug\GUIA111.exe.config
+C:\Users\vladi\Desktop\GUIA111\GUIA111\bin\Debug\GUIA111.exe
+C:\Users\vladi\Desktop\GUIA111\GUIA111\bin\Debug\GUIA111.pdb
+C:\Users\vladi\Desktop\GUIA111\GUIA111\obj\Debug\GUIA111.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\GUIA111\GUIA111\obj\Debug\GUIA111.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\GUIA111\GUIA111\obj\Debug\GUIA111.exe
+C:\Users\vladi\Desktop\GUIA111\GUIA111\obj\Debug\GUIA111.pdb
